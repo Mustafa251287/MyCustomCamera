@@ -1,0 +1,34 @@
+
+   * {
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+   }
+   
+   body {
+        display: flex;
+        overflow: hidden;
+        position: relative;
+background-color: #0c1022;
+border-radius: 50px 5px;
+height: 100%;
+width: 100%;
+align-items: center;
+    }
+
+    #mytable {
+        display: block;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        
+        
+    }
+
+
+    
+
+
+
+
+    
